@@ -1,0 +1,102 @@
+
+
+:root{
+  --font-family-sans-serif : 'Source Sans Pro';
+  --font-family-serif : Merriweather, serif;
+}
+
+.layout-social {
+    font-size: 2em;
+}
+
+#about {
+  font-family: 'Source sans pro';
+}
+
+header{
+    background-image: url("../images/background-img/h_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+#services{
+    background-image: url("../images/background-img/s_image.jpg");
+    background-size: cover; 
+    height: 300px;
+    background-repeat: no-repeat;
+    font-family: 'Source sans pro';
+  }
+
+ 
+
+  #contact{
+    background-image: url("../images/background-img/c_image.jpg");
+    background-size: cover; 
+    /* height: 300px; */
+    background-repeat: no-repeat;
+  }
+
+.headertxt h1{
+    color: white;
+    padding-top: 45px;
+    align-items: center;
+  }
+  .headertxt p{
+    color: white;
+    font-size: 10px;
+    align-items: center;
+  }
+  .service h2{
+    color: white;
+    padding-top: 80px;
+  }
+
+  .service p{
+    color: white;
+    font-size: 12px;
+
+
+  }
+
+#designtxt{
+  display: none;
+}
+#developtxt{
+  display: none;
+}
+#producttxt{
+  display: none;
+}
+
+.footer {
+  background-image: url("../images/background-img/c_image.jpg");
+  background-size: contain;
+  height: 400px;
+  background-repeat: no-repeat;
+}
+
+#mc_embed_signup, input, textarea {
+  background: transparent !important;
+  color: white;
+}
+
+button {
+  font-weight: bold;
+  transition: border 0.2s;
+  border: 1px white;
+  font-size: 1.2rem;
+}
+
+button:hover {
+  border: 2px solid #fff;
+}
+
+
+#contact textarea{
+  width: 100%;
+}
+
+#portfolio img{
+  width: 100%;
+}
