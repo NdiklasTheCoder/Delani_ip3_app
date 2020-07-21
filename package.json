@@ -1,0 +1,16 @@
+{
+  "name": "delani_ip3_app",
+  "version": "1.0.0",
+  "description": "![alt text](https://github.com/NdiklasTheCoder/delani-studios/blob/master/Delani-Studio.jpg?raw=true)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "13.x"
+  }
+}

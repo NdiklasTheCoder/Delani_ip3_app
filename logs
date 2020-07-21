@@ -1,0 +1,84 @@
+Tue Jul 21 2020 14:32:41 GMT+0300 (East Africa Time) | INFO | Server | Server has started on Port: 8000 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /index.html has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /index.html 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/bootstrap.css has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/bootstrap.css 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/styles.css has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/styles.css 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /js/scripts.js has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /js/scripts.js 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/d_logo/logo.png 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/d_logo/logo.png has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/mouse/mouse_click.png has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/mouse/mouse_click.png 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/services_badges/design_icon.png has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/services_badges/design_icon.png 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/services_badges/dev_icon.png has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/services_badges/dev_icon.png 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/services_badges/product_icon.png has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/services_badges/product_icon.png 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work1.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work2.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work3.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work1.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work2.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work3.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work4.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work4.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work5.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work5.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work6.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work6.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/background-img/h_img.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/background-img/h_img.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/background-img/s_image.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/background-img/s_image.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work7.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work7.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work8.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/background-img/c_image.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work8.jpg 
+Tue Jul 21 2020 14:32:52 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/background-img/c_image.jpg 
+Tue Jul 21 2020 14:32:55 GMT+0300 (East Africa Time) | INFO | Server | Request for /portfolio.html has been received with the request method GET 
+Tue Jul 21 2020 14:32:55 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /portfolio.html 
+Tue Jul 21 2020 14:35:02 GMT+0300 (East Africa Time) | INFO | Server | Server has started on Port: 8000 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /index.html has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /index.html 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/bootstrap.css has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/bootstrap.css 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/styles.css has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /js/scripts.js has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/styles.css 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /js/scripts.js 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/d_logo/logo.png has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/d_logo/logo.png 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/mouse/mouse_click.png has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/mouse/mouse_click.png 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/services_badges/design_icon.png has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/services_badges/design_icon.png 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/services_badges/dev_icon.png has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/services_badges/dev_icon.png 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/services_badges/product_icon.png has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/services_badges/product_icon.png 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work1.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work1.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work2.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work3.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work4.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work2.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work3.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work4.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/background-img/h_img.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/background-img/h_img.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/background-img/s_image.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/background-img/s_image.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work5.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work5.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work6.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work6.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work7.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work7.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/portfolio/work8.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/portfolio/work8.jpg 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /images/background-img/c_image.jpg has been received with the request method GET 
+Tue Jul 21 2020 14:35:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /images/background-img/c_image.jpg 
